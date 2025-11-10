@@ -4,11 +4,11 @@ The purpose of this study is to compare the effectiveness of ten drug regimens a
 Detailed analysis included in the jupiter note book file.
 
 Generate Summary Statistics
-Create a DataFrame of summary statistics. Remember, there is more than one method to produce the results you're after, so the method you use is less important than the result.
+Below is DataFrame of summary statistics. 
 
-Your summary statistics should include:
+Specifications for summary statistics:
 
-A row for each drug regimen. These regimen names should be contained in the index column.
+A row for each drug regimen. These regimen names will be contained in the index column.
 
 A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
 
